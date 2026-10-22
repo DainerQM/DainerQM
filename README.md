@@ -13,7 +13,7 @@ Projects are grouped by their current status and purpose. PandaMessage is my onl
 ### B. Teaching Material
 
 - [calculator](https://github.com/DainerQM/calculator)
-- [ejemplo](https://github.com/DainerQM/ejemplo)
+- [python-hello-world](https://github.com/DainerQM/python-hello-world)
 
 ### C. Experimental Repositories
 
@@ -23,8 +23,8 @@ Projects are grouped by their current status and purpose. PandaMessage is my onl
 - [Florecitas](https://github.com/DainerQM/Florecitas)
 - [Flowers](https://github.com/DainerQM/Flowers)
 - [Mi-Bot-De-Discord](https://github.com/DainerQM/Mi-Bot-De-Discord)
-- [my_app_domi](https://github.com/DainerQM/my_app_domi)
-- [my_web](https://github.com/DainerQM/my_web)
+- [pandamessage-ui-prototype](https://github.com/DainerQM/pandamessage-ui-prototype)
+- [viuk-ecommerce-platform](https://github.com/DainerQM/viuk-ecommerce-platform)
 - [ViajeYeni](https://github.com/DainerQM/ViajeYeni)
 - [viuk](https://github.com/DainerQM/viuk)
 - [Wiki-Mario](https://github.com/DainerQM/Wiki-Mario)
