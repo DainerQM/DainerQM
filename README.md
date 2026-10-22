@@ -23,7 +23,6 @@ Projects are grouped by their current status and purpose. PandaMessage is my onl
 - [Florecitas](https://github.com/DainerQM/Florecitas)
 - [Flowers](https://github.com/DainerQM/Flowers)
 - [Mi-Bot-De-Discord](https://github.com/DainerQM/Mi-Bot-De-Discord)
-- [pandamessage-ui-prototype](https://github.com/DainerQM/pandamessage-ui-prototype)
 - [viuk-ecommerce-platform](https://github.com/DainerQM/viuk-ecommerce-platform)
 - [ViajeYeni](https://github.com/DainerQM/ViajeYeni)
 - [viuk](https://github.com/DainerQM/viuk)
