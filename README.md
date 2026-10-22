@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Dainer 👋
 
-<!--
-**DainerQM/DainerQM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught Software Developer and Programming Educator.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have spent the last few years teaching programming and continuously improving my software development skills through independent learning and practical projects.
+
+My focus areas include:
+
+- Python
+- JavaScript
+- SQL
+- REST APIs
+- Software Development
+- Artificial Intelligence
+
+## Current Goals
+
+- Building real-world software projects
+- Expanding my software architecture knowledge
+- Learning AI integration and automation
+- Creating educational content for developers
+
+## Featured Projects
+
+### WhatsApp Automation Platform
+A WhatsApp messaging automation solution powered by UltraMsg API.
+
+## Teaching Experience
+
+Teaching programming has helped me develop strong communication, documentation, and problem-solving skills.
+
+## Contact
+
+- GitHub: https://github.com/DainerQM
