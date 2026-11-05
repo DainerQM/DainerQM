@@ -12,8 +12,13 @@ Projects are grouped by their current status and purpose. PandaMessage is my onl
 
 ### B. Teaching Material
 
-- [calculator](https://github.com/DainerQM/calculator) — A beginner-friendly command-line calculator that demonstrates reading user input, converting values with `float()`, organizing arithmetic in functions, repeating a program with a `while` loop, and choosing operations with `if`/`elif`.
-- [python-hello-world](https://github.com/DainerQM/python-hello-world) — A first step-by-step Python example explaining how `print()` displays a string in the console, how quotes mark text, how to run the script, and what output to expect.
+- **[calculator](https://github.com/DainerQM/calculator)**
+
+  A step-by-step command-line calculator for learning Python fundamentals. It asks for two numbers, converts the input to `float`, and uses functions to perform addition, subtraction, multiplication, and division. The program also demonstrates a `while` loop, `if`/`elif` conditionals, and how to let the user choose an operation or exit.
+
+- **[python-hello-world](https://github.com/DainerQM/python-hello-world)**
+
+  A first Python lesson that explains `print("Hello, world!")` one piece at a time: `print` is the function, parentheses call it, and quotation marks identify the text to display. The README shows how to run the script, the expected console output, and a simple way to experiment by changing the message.
 
 ### C. Experimental Repositories
 
