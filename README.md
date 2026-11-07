@@ -14,6 +14,7 @@ Projects are grouped by their current status and purpose. PandaMessage is my onl
 
 - [calculator](https://github.com/DainerQM/calculator)
 - [python-hello-world](https://github.com/DainerQM/python-hello-world)
+- [python-variables-introduction](https://github.com/DainerQM/python-variables-introduction)
 - [python-data-types-introduction](https://github.com/DainerQM/python-data-types-introduction)
 
 ### C. Experimental Repositories
