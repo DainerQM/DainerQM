@@ -17,6 +17,7 @@ Projects are grouped by their current status and purpose. PandaMessage is my onl
 - [python-data-types-introduction](https://github.com/DainerQM/python-data-types-introduction)
 - [python-variables-introduction](https://github.com/DainerQM/python-variables-introduction)
 - [types-of-operators](https://github.com/DainerQM/types-of-operators)
+- [user-entry](https://github.com/DainerQM/user-entry)
 
 ### C. Experimental Repositories
 
