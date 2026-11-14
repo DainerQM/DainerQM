@@ -19,6 +19,7 @@ Projects are grouped by their current status and purpose. PandaMessage is my onl
 - [types-of-operators](https://github.com/DainerQM/types-of-operators)
 - [user-entry](https://github.com/DainerQM/user-entry)
 - [python-conditionals-introduction](https://github.com/DainerQM/python-conditionals-introduction)
+- [bucles-while](https://github.com/DainerQM/bucles-while)
 
 ### C. Experimental Repositories
 
